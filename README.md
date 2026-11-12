@@ -11,20 +11,45 @@
 ```
 ┌──[sean@github]──[~]
 └─$ cat about.txt
-  role      : Computer Engineer
-  school    : Georgia Tech
-  status    : online
-  focus     : marketpulse
-  learning  : c++, ros2, system design
+  role      : Computer Engineering @ Georgia Tech (class of 2029)
+  threads   : Distributed Systems & Software Design, Computing Hardware & Emerging Architectures
+  building  : MarketPulse, a limit order book engine
+  learning  : C++, ROS2, system design
   ping      : sean.sk07@gmail.com
 ```
+
+### `// projects`
+
+**[MarketPulse](https://github.com/seansiwonkim)** — financial news intelligence platform
+FastAPI + PostgreSQL + Docker + PyTorch. Serves 5K+ articles across 25+ equities under 150 ms, with FinBERT/VADER sentiment (85% accuracy) and a 15-minute ETL pipeline.
+
+**[Limit Order Book Engine](https://github.com/seansiwonkim)** — C++ matching engine
+Price-time priority matching at 500K+ orders/sec, 2.5 µs median and 8.2 µs p99 latency, 95% test coverage.
+
+**[Oratio](https://github.com/seansiwonkim)** — phonological error classifier
+1D CNN in TensorFlow reaching 94.69% accuracy on a 563-word IPA dataset.
+
+### `// also`
+
+- 🔬 Research intern at the GMU Nanoelectronics Lab: grew 2D MoSe₂ flakes ~4× larger and presented at the Summer Research Symposium
+- 🤖 Co-founded FTC robotics team #26394 "Mecha Minds", state qualifiers, $10K+ in sponsorships
 
 ### `// stack`
 
 ![Python](https://img.shields.io/badge/Python-020d08?style=for-the-badge&logo=python&logoColor=00ff9c&labelColor=020d08&color=0b3d2a)
-![JavaScript](https://img.shields.io/badge/JavaScript-020d08?style=for-the-badge&logo=javascript&logoColor=b3a369&labelColor=020d08&color=0b3d2a)
+![C++](https://img.shields.io/badge/C++-020d08?style=for-the-badge&logo=cplusplus&logoColor=b3a369&labelColor=020d08&color=0b3d2a)
 ![TypeScript](https://img.shields.io/badge/TypeScript-020d08?style=for-the-badge&logo=typescript&logoColor=00ff9c&labelColor=020d08&color=0b3d2a)
-![Git](https://img.shields.io/badge/Git-020d08?style=for-the-badge&logo=git&logoColor=b3a369&labelColor=020d08&color=0b3d2a)
+![React](https://img.shields.io/badge/React-020d08?style=for-the-badge&logo=react&logoColor=b3a369&labelColor=020d08&color=0b3d2a)
+![FastAPI](https://img.shields.io/badge/FastAPI-020d08?style=for-the-badge&logo=fastapi&logoColor=00ff9c&labelColor=020d08&color=0b3d2a)
+![PyTorch](https://img.shields.io/badge/PyTorch-020d08?style=for-the-badge&logo=pytorch&logoColor=b3a369&labelColor=020d08&color=0b3d2a)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-020d08?style=for-the-badge&logo=postgresql&logoColor=00ff9c&labelColor=020d08&color=0b3d2a)
+![Docker](https://img.shields.io/badge/Docker-020d08?style=for-the-badge&logo=docker&logoColor=b3a369&labelColor=020d08&color=0b3d2a)
+![Linux](https://img.shields.io/badge/Linux-020d08?style=for-the-badge&logo=linux&logoColor=00ff9c&labelColor=020d08&color=0b3d2a)
+
+### `// connect`
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-020d08?style=for-the-badge&logo=githubpages&logoColor=00ff9c&labelColor=020d08&color=0b3d2a)](https://seansiwonkim.github.io/folio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-020d08?style=for-the-badge&logo=linkedin&logoColor=b3a369&labelColor=020d08&color=0b3d2a)](https://linkedin.com/in/ssk1214)
 
 ### `// stats`
 
