@@ -36,15 +36,43 @@ Price-time priority matching at 500K+ orders/sec, 2.5 µs median and 8.2 µs p99
 
 ### `// stack`
 
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-020d08?style=for-the-badge&logo=python&logoColor=00ff9c&labelColor=020d08&color=0b3d2a)
 ![C++](https://img.shields.io/badge/C++-020d08?style=for-the-badge&logo=cplusplus&logoColor=b3a369&labelColor=020d08&color=0b3d2a)
+![C](https://img.shields.io/badge/C-020d08?style=for-the-badge&logo=c&logoColor=00ff9c&labelColor=020d08&color=0b3d2a)
+![JavaScript](https://img.shields.io/badge/JavaScript-020d08?style=for-the-badge&logo=javascript&logoColor=b3a369&labelColor=020d08&color=0b3d2a)
 ![TypeScript](https://img.shields.io/badge/TypeScript-020d08?style=for-the-badge&logo=typescript&logoColor=00ff9c&labelColor=020d08&color=0b3d2a)
+
+**Web & Backend**
+
 ![React](https://img.shields.io/badge/React-020d08?style=for-the-badge&logo=react&logoColor=b3a369&labelColor=020d08&color=0b3d2a)
-![FastAPI](https://img.shields.io/badge/FastAPI-020d08?style=for-the-badge&logo=fastapi&logoColor=00ff9c&labelColor=020d08&color=0b3d2a)
-![PyTorch](https://img.shields.io/badge/PyTorch-020d08?style=for-the-badge&logo=pytorch&logoColor=b3a369&labelColor=020d08&color=0b3d2a)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-020d08?style=for-the-badge&logo=postgresql&logoColor=00ff9c&labelColor=020d08&color=0b3d2a)
-![Docker](https://img.shields.io/badge/Docker-020d08?style=for-the-badge&logo=docker&logoColor=b3a369&labelColor=020d08&color=0b3d2a)
+![React Native](https://img.shields.io/badge/React%20Native-020d08?style=for-the-badge&logo=react&logoColor=00ff9c&labelColor=020d08&color=0b3d2a)
+![Node.js](https://img.shields.io/badge/Node.js-020d08?style=for-the-badge&logo=nodedotjs&logoColor=b3a369&labelColor=020d08&color=0b3d2a)
+![Express](https://img.shields.io/badge/Express-020d08?style=for-the-badge&logo=express&logoColor=00ff9c&labelColor=020d08&color=0b3d2a)
+![FastAPI](https://img.shields.io/badge/FastAPI-020d08?style=for-the-badge&logo=fastapi&logoColor=b3a369&labelColor=020d08&color=0b3d2a)
+
+**ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-020d08?style=for-the-badge&logo=pytorch&logoColor=00ff9c&labelColor=020d08&color=0b3d2a)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-020d08?style=for-the-badge&logo=tensorflow&logoColor=b3a369&labelColor=020d08&color=0b3d2a)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-020d08?style=for-the-badge&logo=huggingface&logoColor=00ff9c&labelColor=020d08&color=0b3d2a)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-020d08?style=for-the-badge&logo=postgresql&logoColor=b3a369&labelColor=020d08&color=0b3d2a)
+![MongoDB](https://img.shields.io/badge/MongoDB-020d08?style=for-the-badge&logo=mongodb&logoColor=00ff9c&labelColor=020d08&color=0b3d2a)
+![MySQL](https://img.shields.io/badge/MySQL-020d08?style=for-the-badge&logo=mysql&logoColor=b3a369&labelColor=020d08&color=0b3d2a)
+![SQLite](https://img.shields.io/badge/SQLite-020d08?style=for-the-badge&logo=sqlite&logoColor=00ff9c&labelColor=020d08&color=0b3d2a)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-020d08?style=for-the-badge&logo=git&logoColor=b3a369&labelColor=020d08&color=0b3d2a)
+![Docker](https://img.shields.io/badge/Docker-020d08?style=for-the-badge&logo=docker&logoColor=00ff9c&labelColor=020d08&color=0b3d2a)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-020d08?style=for-the-badge&logo=githubactions&logoColor=b3a369&labelColor=020d08&color=0b3d2a)
 ![Linux](https://img.shields.io/badge/Linux-020d08?style=for-the-badge&logo=linux&logoColor=00ff9c&labelColor=020d08&color=0b3d2a)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-020d08?style=for-the-badge&logo=amazons3&logoColor=b3a369&labelColor=020d08&color=0b3d2a)
+![CMake](https://img.shields.io/badge/CMake-020d08?style=for-the-badge&logo=cmake&logoColor=00ff9c&labelColor=020d08&color=0b3d2a)
 
 ### `// connect`
 
