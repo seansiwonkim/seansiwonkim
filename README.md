@@ -11,11 +11,11 @@
 ```
 ┌──[sean@github]──[~]
 └─$ cat about.txt
-  role      : builder
+  role      : computer enginee
   school    : Georgia Tech
   status    : online
-  focus     : <add current project>
-  learning  : <add what you're learning>
+  focus     : marketpulse
+  learning  : c++, ros2, system design
   ping      : sean.sk07@gmail.com
 ```
 
@@ -29,7 +29,7 @@
 ### `// stats`
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=seansiwonkim&show_icons=true&hide_border=true&bg_color=020d08&title_color=00ff9c&icon_color=b3a369&text_color=a8f0cf" alt="stats" />
+  <img src="https://streak-stats.demolab.com/?user=seansiwonkim&background=020D08&border=0B3D2A&stroke=0B3D2A&ring=00FF9C&fire=B3A369&currStreakNum=00FF9C&currStreakLabel=00FF9C&sideNums=A8F0CF&sideLabels=A8F0CF&dates=6FAE92" alt="streak" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:0b3d2a,100:020d08&height=100&section=footer" width="100%" alt="footer" />
