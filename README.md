@@ -29,7 +29,7 @@
 ### `// stats`
 
 <p>
-  <img src="https://ghchart.rshah.org/00ff9c/seansiwonkim" alt="contribution graph" width="100%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=seansiwonkim&show_icons=true&hide_border=true&bg_color=020d08&title_color=00ff9c&icon_color=b3a369&text_color=a8f0cf" alt="stats" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:0b3d2a,100:020d08&height=100&section=footer" width="100%" alt="footer" />
